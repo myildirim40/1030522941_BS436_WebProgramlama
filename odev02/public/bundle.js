@@ -1,0 +1,1 @@
+var GameLocal;(()=>{var a=Math.floor(3*Math.random());console.log(a);document.getElementById("alanId");GameLocal={}})();
